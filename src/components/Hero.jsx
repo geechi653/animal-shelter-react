@@ -29,7 +29,7 @@ function Hero() {
       <img
         src="src/assets/animals.png"
         alt="animals"
-        className="img-fluid w-50 border rounded-3"
+        className="img-fluid w-50 border rounded-3 d-none d-md-block"
       />
     </div>
   );

@@ -1,6 +1,6 @@
 function Card({ name, age, shortDescription, fullDescription }) {
   return (
-    <div className="col-4 mb-4">
+    <div className="col-12 col-md-4 mb-4">
       <div className="card h-100">
         <img
           src={`src/assets/${name}.png`}
